@@ -1,7 +1,7 @@
 @value makerGreen from '../../common/colors.css';
 .preview {
   flex-basis: 50%;
-  background: peru;
+  /* background: peru; */
 }
 
 .title {
